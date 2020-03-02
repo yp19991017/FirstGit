@@ -18,7 +18,7 @@ public class UserDaoImpl implements UserDao {
 	}
 	@Override
 	public void update(User user) {
-		System.out.println("执行用户信息的操作");
+		System.out.println("执行信息的操作");
 	}
 	
 }
